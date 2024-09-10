@@ -9,14 +9,14 @@ const Navbar = () => {
                     <ul className='flex flex-row space-x-6 p-4 '>
                         <li>
                             <a href='/'
-                            className='text-gray-600'>
+                            className='font-bold sm:text-xl text-white brightness-120'>
                             Home
                             </a>
                         </li>
                         <li>
                             <a href='
 https://chat.whatsapp.com/GBSbc0HutJM5Ld1f5RSv3F'
-                            className='text-gray-600'>
+                            className='font-bold sm:text-xl text-white brightness-120'>
                             Contact Us
                             </a>
                         </li>
