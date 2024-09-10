@@ -26,7 +26,7 @@ const HeroSection = () => {
             <a
             href=''
             className='rounded-md mx-auto max-w-fit border px-5 py-2                                
-            text-sm font-mediym shadow-sm bg-black text-white brightness-100
+            sm:text-xl font-mediym shadow-sm bg-black text-white brightness-100
             hover:ring-grat-400 hover:ring-2'>
                 Register Now!
             </a>
