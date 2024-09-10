@@ -18,7 +18,7 @@ const HeroSection = () => {
 
         </h2>
         <h2 className=' flex justify-center sm:text-5xl font-bold mt-5 text-white brightness-100 '>
-              Prize Pool <h2 className='sm:text-5xl font-bold text-indigo-600'>{Prize}</h2>
+              Prize Pool  <h2 className='sm:text-5xl font-bold text-green-400'>  {Prize}</h2>
 
         </h2>
         <br/>
