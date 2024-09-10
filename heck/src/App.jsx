@@ -13,7 +13,7 @@ function App() {
         <img src='/mesh.svg' 
         className='opacity-50 absolute   h-[600]' />
       </div>
-      <div className='flex justify-center'>
+      <div className=''>
         <Navbar />
         <div className='container mx-auto'>
           <HeroSection />
