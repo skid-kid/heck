@@ -14,16 +14,13 @@ const Navbar = () => {
                             </a>
                         </li>
                         <li>
-                            <a href='/'
+                            <a href='
+https://chat.whatsapp.com/GBSbc0HutJM5Ld1f5RSv3F'
                             className='text-gray-600'>
-                            Features
+                            Contact Us
                             </a>
                         </li>
                         <li>
-                            <a href='/'
-                            className='text-gray-600'>
-                            About Us
-                            </a>
                         </li>
                     </ul>
                 </nav>
