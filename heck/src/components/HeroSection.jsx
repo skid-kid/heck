@@ -9,7 +9,7 @@ const HeroSection = () => {
             <br />
             <br/>
         </section>
-        <h1 className='font-extrabold sm:text-8xl mt-0 bg-gradient-to-r from-pink-500 via-indigo-600 to-pink-500 bg-clip-text text-transparent'>
+        <h1 className='font-extrabold sm:text-9xl mt-0 bg-gradient-to-r from-pink-500 via-indigo-600 to-pink-500 bg-clip-text text-transparent'>
             Techn✦Tronix
         </h1>
         <br/>
