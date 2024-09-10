@@ -5,13 +5,15 @@ const HeroSection = () => {
   return (
     <section className='hero-section text-center mt-32 flex flex-col'>
         <section className='text-xl font-bold leading-[1.15] text-white brightness-100 sm:text-xl'>
+            <br/>
+            <br/>
         <h2 className='sm:text-3xl'>Sep 21, 2024 - Sep 22, 2024</h2>
             <br />
             <br/>
-        </section>
-        <h1 className='font-extrabold sm:text-9xl mt-0 bg-gradient-to-r from-pink-200 via-indigo-200 to-pink-200 bg-clip-text text-transparent brightness-100'>
+        <h2 className='font-bold text-4xl sm:text-6xl md:text-6xl lg:text-7xl xl:text-8xl mt-0 bg-gradient-to-r from-pink-200 via-indigo-200 to-pink-200 bg-clip-text text-transparent brightness-100'>
             Techn✦Tronix
-        </h1>
+        </h2>
+        </section>
         <br/>
         <h2 className='sm:text-2xl font-bold mt-5 text-white brightness-100 '>
         An intense 24-hour coding challenge where innovation meets adrenaline. 
