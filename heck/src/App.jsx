@@ -13,7 +13,7 @@ function App() {
         <img src='/mesh.svg' 
         className='opacity-50 absolute   h-[600]' />
       </div>
-      <div className='relative z-10'>
+      <div className='relative'>
         <Navbar />
         <div className='container mx-auto'>
           <HeroSection />
