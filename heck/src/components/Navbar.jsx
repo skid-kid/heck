@@ -2,7 +2,7 @@ import React from 'react'
 
 const Navbar = () => {
   return (
-    <div className='sticky insert-x-0 top-8 w-full z-30'>
+    <div className='sticky insert-x-0 top-8 w-full '>
         <div className='mx-auto w-full max-w-screen-xl px-2.5 lg:px-20 relative'>
             <div className='flex  item-center justify-center'>
                 <nav>
