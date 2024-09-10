@@ -5,8 +5,6 @@ const HeroSection = () => {
   return (
     <section className='hero-section text-center mt-32 flex flex-col'>
         <section className='text-xl font-bold leading-[1.15] text-white brightness-100 sm:text-xl'>
-            <br/>
-            <br/>
         <h2 className='sm:text-3xl'>Sep 21, 2024 - Sep 22, 2024</h2>
             <br />
             <br/>
