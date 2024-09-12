@@ -1,7 +1,6 @@
 import React from 'react'
 
 const HeroSection = () => {
-    const Prize="{1000 USD}";
   return (
     <section className='hero-section text-center mt-32 flex flex-col'>
         <section className='text-xl font-bold leading-[1.15] text-white brightness-100 sm:text-xl'>
@@ -13,12 +12,12 @@ const HeroSection = () => {
         </h2>
         </section>
         <br/>
-        <h2 className='sm:text-2xl font-bold mt-5 text-white brightness-100 '>
-        An intense 24-hour coding challenge where innovation meets adrenaline. 
+        <h2 className='sm:text-2xl font-bold mt-4 text-white brightness-100 '>
+        A flagship 2-Days event,Learn and build on Aptos,get rewards like bounties,swags and enjoy tasty pizzas
 
         </h2>
         <h2 className=' flex justify-center sm:text-5xl font-bold mt-5 text-white brightness-100 '>
-              Prize Pool  <h2 className='sm:text-5xl font-bold text-green-400'>  {Prize}</h2>
+              Register Now<h2 className='sm:text-5xl font-bold text-green-400'>-Only Limited Seats!</h2>
 
         </h2>
         <br/>
@@ -32,21 +31,37 @@ const HeroSection = () => {
             </a>
         </div>
         <br/>
-        <div className=' max-w-3xl mx-auto p-5 m-5 grid gap-6 md:grid-cols-2 brightness-100 '>
+        <div className=' max-w-5xl mx-auto p-5 m-5 grid gap-6 md:grid-cols-3 brightness-100 '>
     <div className='bg-black p-6 rounded-lg shadow-lg '>
+      <h1 className='text-xl font-bold text-white brightness-90 mb-1'>DAY 1 -: 3pm-8pm</h1>
+      <br/>
       <h2 className='text-xl font-bold text-white brightness-90 mb-1'>#MakeYourMove</h2>
+      <br/>
       <p className='text-white brightness-100'>
-        Join our 24-hour hackathon and develop on Aptos! Build, innovate, and showcase your skills on a cutting-edge blockchain platform.
+
+      Start your Web3 journey, understand things on a higher level, and dive into Aptos. Learn how it works, get an intro to smart contracts, and end day1 with a delicious pizza!
       </p>
     </div>
     <div className='bg-black p-6 rounded-lg shadow-lg brightness-100'>
-      <h2 className="text-xl font-bold text-white mb-1 brightness-100">Fuel Your Creativity</h2>
+    <h1 className='text-xl font-bold text-white brightness-90 mb-1'>DAY 2 -: 3pm-8pm</h1><br/>
+      <h2 className="text-xl font-bold text-white mb-1 brightness-100">#FuelYourCreativity</h2><br/>
       <p className="text-white brightness-100">
-        Enjoy free food and drinks to keep you energized,chance to win exclusive goodies as you compete!,and Standout projects can win grants to elevate their ideas.
+      Explore Aptos smart contracts and SDKs. Work on a project, participate in challenges, and a chance to win swags,goodies,etc. Enjoy a tasty pizza at the end.
+      </p>
+    </div>
+    <div className='bg-black p-6 rounded-lg shadow-lg '>
+      <h1 className='text-xl font-bold text-white brightness-90 mb-1'>Pre-requistes</h1>
+      <br/>
+      <p className='text-white brightness-100'>
+          1-)  Dont forget to Bring Your Laptpos and Extension cords for charging<br/><br/>
+          2-) Internet Stability is must <br/><br/>
+          3-) Make sure to Join the Community!,resources required before event will shared there!
       </p>
     </div>
     
   </div>
+  
+  <h2 className='sm:text-5xl font-bold italic text-green-400 brightness-100'>See You There!</h2>
     </section>
   )
 }
