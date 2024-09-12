@@ -17,7 +17,7 @@ const Navbar = () => {
                             <a href='
 https://chat.whatsapp.com/GBSbc0HutJM5Ld1f5RSv3F' target='_blank'
                             className='font-bold sm:text-2xl text-white brightness-120 '>
-                            Join Community
+                            JoinCommunity
                             </a>
                         </li>
                         <li>
