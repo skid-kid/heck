@@ -16,7 +16,7 @@ function App() {
       <div className=' bg-black justify-center '>
         <Navbar/>
         <br/>
-            <div className='flex justify-center'>
+            <div className='flex justify-center p-5'>
           <img src='/aptos-seeklogo.svg' width={100} height={100}></img>
           <img src='/ibf.png' width={300} height={150}></img>
           </div>

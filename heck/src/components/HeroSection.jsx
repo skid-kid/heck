@@ -46,16 +46,16 @@ const HeroSection = () => {
     <h1 className='text-xl font-bold text-white brightness-90 mb-1'>DAY 2 -: 3pm-8pm</h1><br/>
       <h2 className="text-xl font-bold text-white mb-1 brightness-100">#FuelYourCreativity</h2><br/>
       <p className="text-white brightness-100">
-      Explore Aptos smart contracts and SDKs. Work on a project, participate in challenges, and a chance to win swags,goodies,etc. Enjoy a tasty pizza at the end.
+      Explore Aptos smart contracts and SDKs. Work on a project, participate in challenges, and a chance to win swags,goodies,etc.Get a Tasty Pizza at calling off the event.
       </p>
     </div>
     <div className='bg-black p-6 rounded-lg shadow-lg '>
-      <h1 className='text-xl font-bold text-white brightness-90 mb-1'>Pre-requistes</h1>
+      <h1 className='text-xl font-bold text-white brightness-90 mb-1'>Pre-requisites</h1>
       <br/>
       <p className='text-white brightness-100'>
-          1-)  Dont forget to Bring Your Laptpos and Extension cords for charging<br/><br/>
+          1-)  Dont forget to Bring Your Laptops and Extension cords for charging<br/><br/>
           2-) Internet Stability is must <br/><br/>
-          3-) Make sure to Join the Community!,resources required before event will shared there!
+          3-) Make sure to Join the Community!,resources required before event will be shared there!
       </p>
     </div>
     
