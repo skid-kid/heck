@@ -23,7 +23,8 @@ const HeroSection = () => {
         <br/>
         <div className='mx-auto mt-5 flex max-w-fit space-x-4'>
             <a
-            href='https://youtu.be/dQw4w9WgXcQ?si=OF6vlt92mtevQtOM'
+            href='https://www.risein.com/bootcamps/build-on-aptos-bootcamp-bennett-university'
+            target='_blank'
             className='rounded-md mx-auto max-w-fit border px-5 py-2                                
             sm:text-xl font-mediym shadow-sm bg-black text-white brightness-100
             hover:ring-grat-400 hover:ring-2'>
