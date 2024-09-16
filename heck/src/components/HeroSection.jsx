@@ -7,7 +7,7 @@ const HeroSection = () => {
         <h2 className='sm:text-3xl'>Sep 21, 2024 - Sep 22, 2024</h2>
             <br />
             <br/>
-        <h2 className='font-bold text-4xl sm:text-4xl md:text-6xl lg:text-4xl xl:text-8xl mt-0 bg-gradient-to-r text-black bg-clip-text text-transparent brightness-100'>
+        <h2 className='font-bold text-4xl sm:text-4xl md:text-6xl lg:text-4xl xl:text-8xl mt-0 bg-gradient-to-r text-black bg-clip-text  brightness-100'>
               BUILD ON
         </h2>
         <h2 className='font-bold text-6xl sm:text-8xl md:text-8xl lg:text-8xl xl:text-8xl mt-0 bg-gradient-to-r text-black brightness-100'>APTOS</h2>
