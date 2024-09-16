@@ -57,7 +57,7 @@ const HeroSection = () => {
       
       <p className='text-white brightness-100'>
           1-)  Dont forget to Bring Your Laptops and Extension cords for charging<br/><br/>
-          2-) It's a long event,so dont forget to caffienate yourself<br/><br/>
+          2-) It's a long event,so dont forget to caffeinate yourself<br/><br/>
           3-) Make sure to Join the Community!,resources required before event will be shared there!
       </p>
     </div>
